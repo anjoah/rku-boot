@@ -21,3 +21,7 @@
 ## make OK
 
 ![image](./make_ok.jpg)
+
+
+## RockChip_Uboot_development_V3-3.pdf
+![image](./RockChip_Uboot_development_V3-3.pdf)
